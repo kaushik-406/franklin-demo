@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1orpxZ3EG5_7BwxWdItNpoOG9Wxvr_grK
+  /: 
+    url: "http://localhost:8502/sites.html/content"
+    type: "markup"
+    suffix: ".html"
